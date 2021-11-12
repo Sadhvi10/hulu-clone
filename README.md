@@ -8,7 +8,7 @@ https://hulu-clone-sadhvi10.vercel.app/
 
 ## Screenshots
 
-![hulu_thumbnail](hulu_thumbnail.png)
+![Hulu Thumbnail](hulu_thumbnail.PNG)
 
 ### API link
 
