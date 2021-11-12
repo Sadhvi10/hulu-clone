@@ -8,6 +8,8 @@ https://hulu-clone-sadhvi10.vercel.app/
 
 ## Screenshots
 
+![hulu_thumbnail](hulu_thumbnail.png)
+
 ### API link
 
 https://www.themoviedb.org/
