@@ -4,7 +4,7 @@ Hulu clone build using React (Next.js & TailwindCSS, Responsive). In this projec
 
 ### Live Site
 
-https://hulu-clone-sadhvi10.vercel.app/
+https://hulu-clone-tmdb.vercel.app/
 
 ## Screenshots
 
