@@ -52,6 +52,15 @@ Before you begin, ensure you have met the following requirements:
 
 ## Usage
 
+The usage of a Hulu clone that fetches data from the TMDB API and utilizes server-side rendering can be understood from the following points:
+
+- **Content Display**: The clone can showcase a vast array of movies, TV shows, and other multimedia content sourced directly from the TMDB database.
+- **Real-time Data**: With the TMDB API, the clone is equipped to display real-time information about movies and TV shows, ensuring users see the latest data.
+- **Enhanced Performance**: Server-side rendering ensures faster initial page load times, offering users a snappier experience, especially for content-rich pages.
+- **SEO Optimization**: SSR improves the site's search engine optimization. Since search engines receive fully rendered pages, it can index the site more effectively, beneficial for attracting organic traffic.
+- **Categorized Viewing**: Users can browse content based on genres, popularity, release dates, and other categories, providing a more organized and tailored viewing experience.
+- **Improved User Experience**: The combination of real-time data fetching and server-side rendering means users get a seamless browsing experience without long loading times or stale data.
+- **Responsive Design**: Like Hulu, the clone can be designed to be responsive, ensuring a consistent user experience across various device types and screen sizes.
 
 
 
