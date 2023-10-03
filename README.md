@@ -2,30 +2,32 @@
 
 This application is a replica of [Hulu](https://www.hulu.com/welcome?orig_referrer=https%3A%2F%2Fwww.google.com%2F) which is majority-owned by the [Walt Design Company](https://en.wikipedia.org/wiki/The_Walt_Disney_Company). This clone is built using Javascript frameworks like React, and Next and a CSS utility framework called TailwindCSS. The [Movie Database (TMDB)](https://www.themoviedb.org/) API is a community-built movie and TV database that is used to systematically retrieve details about movies, TV shows/seasons, actors, and more. The API is offered by TMDB for free, and one can obtain an API key by signing into their TMDB account.
 
-- For more information regarding React, visit [https://react.dev/](https://react.dev/)
-- For more information regarding Next, visit [https://nextjs.org/](https://nextjs.org/)
-- For more information regarding TailwindCSS, visit [https://tailwindcss.com/](https://tailwindcss.com/)
+🔍 Frameworks & Tools:
 
-## Live Website
+- **React**: [https://react.dev/](https://react.dev/)
+- **Next.js**: [https://nextjs.org/](https://nextjs.org/)
+- **TailwindCSS**: [https://tailwindcss.com/](https://tailwindcss.com/)
 
-https://hulu-clone-tmdb.vercel.app/
+## 🌐 Live Demo
 
-## Features
+Experience the live version of the application [here](https://hulu-clone-tmdb.vercel.app/).
+
+## 🌟 Key Features
 
 - **Responsive Web**: Responsive Web Design using React, Next & TailwindCSS.
 - **Thumbnail Display**: Displays a selection of TV and Movie data, sorted by genre, retrieved, and shown in the browser.
 - **Server-Side Rendering**: Data is processed and rendered to the webpage on the server itself, rather than in the browser. 
 
-## Screenshots
+## 🖼️ Preview
 
 ![Hulu Thumbnail](hulu_thumbnail.PNG)
 
-## Table of Contents
+## 📚 Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
   
-## Installation
+## 🛠️ Installation
 
 Follow these steps to install and run the project on your local machine:
 
@@ -50,7 +52,7 @@ Before you begin, ensure you have met the following requirements:
    ```bash
    npm i && npm run start
 
-## Usage
+## 🚀 Usage
 
 The usage of a Hulu clone that fetches data from the TMDB API and utilizes server-side rendering can be understood from the following points:
 
@@ -61,6 +63,18 @@ The usage of a Hulu clone that fetches data from the TMDB API and utilizes serve
 - **Categorized Viewing**: Users can browse content based on genres, popularity, release dates, and other categories, providing a more organized and tailored viewing experience.
 - **Improved User Experience**: The combination of real-time data fetching and server-side rendering means users get a seamless browsing experience without long loading times or stale data.
 - **Responsive Design**: Like Hulu, the clone can be designed to be responsive, ensuring a consistent user experience across various device types and screen sizes.
+
+### Next.js Authentication
+
+[Next.js](https://nextjs.org/) offers an integrated approach to user authentication in React applications, and it has been leveraged in this Facebook clone for several reasons:
+
+Session Management:
+- With Next.js, sessions are managed efficiently. Once a user logs in, their session details are retained securely, ensuring they remain authenticated until they opt to log out or their session naturally expires.
+Extensibility with Third-party Providers:
+- This clone is structured in a way that it can potentially allow users to sign in using third-party providers such as Google, Facebook, or Twitter, all thanks to the flexibility of Next.js authentication.
+Enhanced Security:
+- Security is paramount, especially for platforms like Facebook. Therefore, all passwords are hashed and salted; plain text storage is avoided at all costs.
+
 
 
 
